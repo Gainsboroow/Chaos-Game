@@ -1,6 +1,12 @@
 """
-Made by Gainsboroow 
+Chaos Game
+Created by Gainsboroow 
 Github : https://github.com/Gainsboroow
+Github Repository : https://github.com/Gainsboroow/Chaos-Game
+
+How to use : 
+Right Click to begin the generation. 
+You can choose the number of side and the number of displayed points in the two top right cases.
 """
 
 from tkinter import *
