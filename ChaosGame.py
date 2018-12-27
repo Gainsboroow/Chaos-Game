@@ -120,5 +120,6 @@ valeur2.set("1000")
 
 #Un Clic droit début le processus
 window.bind("<Button-3>", generer)
+window.bind("<KeyPress>", generer)
 
 window.mainloop()
